@@ -1,0 +1,117 @@
+body {
+  color: #572EE5;
+  font-family: "Montserrat", sans-serif;
+}
+
+body :root {
+  font-size: 16px;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.logo {
+  width: 68px;
+  height: 60px;
+}
+
+ul {
+  width: 50%;
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+  font-family: "Montserrat", sans-serif;
+  color: #572EE5;
+}
+
+a {
+  text-decoration: none;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  margin-top: 5%;
+  color: #572EE5;
+}
+
+.gifos {
+  color: #50E3C2;
+}
+
+.b-gifos {
+  width: 30%;
+  height: 30px;
+  border-radius: 27px;
+  align-content: center;
+}
+
+.conteiner1 {
+  margin-top: 6%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.sub-tred {
+  color: #572EE5;
+  font-size: 1.2rem;
+}
+
+.reacciones {
+  color: #572EE5;
+}
+
+.background {
+  background-color: #F3F5F8;
+}
+
+.conteiner2 {
+  background-color: #F3F5F8;
+  margin-top: 8%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.conteiner3 {
+  width: 95%;
+  display: flex;
+  background-color: #F3F5F8;
+  justify-content: space-between;
+}
+
+iframe {
+  margin-left: 8%;
+  width: 357px;
+  height: 250px;
+}
+
+footer {
+  margin-top: 8%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.redes {
+  width: 30%;
+  margin-left: 6%;
+  display: flex;
+  color: black;
+  font-size: 13px;
+}
+
+.derechos {
+  color: black;
+  font-size: 13px;
+  margin-right: 6%;
+}
+/*# sourceMappingURL=estilos.min.css.map */

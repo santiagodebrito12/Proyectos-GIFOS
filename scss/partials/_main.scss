@@ -1,0 +1,21 @@
+main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    margin-top: 5%;
+    color: $coloruno;
+}
+.gifos{
+    color:$colordos
+}
+
+.b-gifos{
+    width: 30%;
+    height: 30px;
+    border-radius: 27px;
+    align-content: center;
+    
+}
